@@ -24,6 +24,6 @@ LOCAL_AAPT_FLAGS := --auto-add-overlay \
     --extra-packages android.support.v7.appcompat \
     --extra-packages android.support.design
 
-LOCAL_PACKAGE_NAME := AOSGPwalls
+LOCAL_PACKAGE_NAME := AOSGPWalls
 
 include $(BUILD_PACKAGE)
